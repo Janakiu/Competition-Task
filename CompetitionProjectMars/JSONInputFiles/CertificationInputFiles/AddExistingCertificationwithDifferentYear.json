@@ -1,0 +1,15 @@
+﻿[
+  {
+    "CertificationName": "TEST1325",
+    "CertifiedFrom": "TEST564",
+    "year": "2012",
+    "CertificationNameNew": "TEST1325",
+    "CertifiedFromNew": "TEST564",
+    "yearNew": "2013",
+    "PopUpMessage": "Duplicated data"
+
+
+
+  }
+
+]

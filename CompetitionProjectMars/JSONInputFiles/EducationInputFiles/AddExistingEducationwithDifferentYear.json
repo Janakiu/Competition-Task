@@ -1,0 +1,19 @@
+﻿[
+
+  {
+    "CollegeName": "Ferrari",
+    "Country": "Canada",
+    "Title": "MFA",
+    "Degree": "Automobiles",
+    "Year": "2007",
+    "CollegeNameNew": "Ferrari",
+    "CountryNew": "Canada",
+     "Titlenew": "MFA",
+     "DegreeNew": "Automobiles",
+     "YearNew": "2011",
+     "PopUpMessage": "Duplicated data"
+   }   
+
+
+
+]
